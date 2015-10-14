@@ -64,4 +64,4 @@ self.class.name
 ```
 def switch_disconnected(datapath_id)
 ```
-切断時に呼ばれるメソッド。"Bye (呼び出し元のid)"と表示する。
+切断時に呼ばれるメソッド。"Bye (呼び出し元のid)"と表示する。（課題その1）
